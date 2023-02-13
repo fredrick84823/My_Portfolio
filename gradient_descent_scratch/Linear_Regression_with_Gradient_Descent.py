@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 def bias_coef_update(m, b, X, Y, learning_rate):
     m_gradient = 0
