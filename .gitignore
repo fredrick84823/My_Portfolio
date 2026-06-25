@@ -1,5 +1,6 @@
 .DS_Store
 browser_user/
+spotify_api/
 spotify_api/spotify/
 spotify_api/spotify_token.json
 *.env
