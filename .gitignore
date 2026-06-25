@@ -1,0 +1,9 @@
+.DS_Store
+browser_user/
+spotify_api/spotify/
+spotify_api/spotify_token.json
+*.env
+.env
+venv/
+.venv/
+__pycache__/
